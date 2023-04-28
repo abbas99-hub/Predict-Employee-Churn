@@ -1,4 +1,11 @@
 pandas
 numpy
 seaborn
+statsmodels
+plotly
+cufflinks
+chart-studio
+xgboost
+scikit-learn
+Cython
 -e .
