@@ -8,4 +8,5 @@ chart-studio
 xgboost
 scikit-learn
 Cython
+dill
 -e .
