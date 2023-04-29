@@ -10,4 +10,5 @@ scikit-learn
 Cython
 dill
 catboost
+black
 -e .
